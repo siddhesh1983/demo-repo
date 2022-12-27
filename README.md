@@ -1,3 +1,3 @@
-# Demo header
+# Demo
 
 Some description to add
